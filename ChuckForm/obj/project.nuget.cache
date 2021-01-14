@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0WSL8td47Jmw2VLfUvoGAJ5dCMIWtm2RhesplFHHIO8XDSWueJK90lz8NRjShEqp/1g+Vam2NXjnpIOPl8rCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mammu\\source\\repos\\ChuckConsole\\ChuckForm\\ChuckForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mammu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.exe
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.deps.json
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.runtimeconfig.json
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.dll
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.pdb
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.AssemblyInfo.cs
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.dll
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.pdb
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.genruntimeconfig.cache
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csproj.CopyComplete
